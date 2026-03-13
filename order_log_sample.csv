@@ -1,0 +1,9 @@
+order_id,strategy_id,signal_type,action,ticker/stock_pool,order_status,create_time,msg
+ORD20260313180525792189,STR001,cross_section,adjust,"600000.SH,000001.SZ,601318.SH",generated,2026-03-13 18:05:25,订单生成成功
+ORD20260313180525147406,STR001,time_series,add,600000.SH,generated,2026-03-13 18:05:25,订单生成成功
+ORD20260313180525216380,STR001,time_series,reduce,600000.SH,generated,2026-03-13 18:05:25,订单生成成功
+ORD20260313180525997582,STR001,cross_section,adjust,"600000.SH,000001.SZ,601318.SH",failed,2026-03-13 18:05:25,截面信号字段缺失：target_weight
+ORD20260313181012123456,STR001,time_series,add,600000.SH,generated,2026-03-13 18:10:12,订单生成成功
+ORD202603131812345678901,STR002,cross_section,adjust,"002445.SZ,000725.SZ,600019.SH",generated,2026-03-13 18:12:34,订单生成成功
+ORD202603131815234567890,STR001,time_series,reduce,000001.SZ,generated,2026-03-13 18:15:23,订单生成成功
+ORD202603131816123456789,STR001,time_series,adjust,601318.SH,failed,2026-03-13 18:16:12,换仓操作目标仓位需与当前仓位不同
